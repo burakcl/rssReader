@@ -1,0 +1,9 @@
+{
+"id": 1016450300,
+"category": "Dünya",
+"title": "Türkler gündemden kaçmak için mi havadan bahsediyor",
+"time": "Mon, 29 May 2017 10:16:45 +0300",
+"aciklama": "İngiliz The Times gazetesi, Pazartesi günkü sayısında muhabiri Hannah Lucinda Smith’in Türkiye’de son dönemde etkisi görülen olumsuz hava koşullarıyla ilgili izlenimlerine yer veriyor.",
+"link": "http://www.hurriyet.com.tr/turkler-gundemden-kacmak-icin-mi-havadan-bahsediyor-40472995",
+"resim": "http://i.hurimg.com/i/hurriyet/75/620x350/592bca35c03c0e4494ebbc20.jpg"
+}
