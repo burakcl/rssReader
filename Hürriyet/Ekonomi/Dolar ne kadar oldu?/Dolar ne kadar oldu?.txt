@@ -1,0 +1,9 @@
+{
+"id": 0919000300,
+"category": "Ekonomi",
+"title": "Dolar ne kadar oldu?",
+"time": "Mon, 16 May 2016 09:19:00 +0300",
+"aciklama": "Cuma günü 2.97'nin hemen altında haftayı tamamlayan dolar/TL , bu sabah güne 2.9739 seviyesinde başladı. Küresel satış baskısı ve siyasi gelişmelerle baskı altında kalan kurda politik gelişmelerin ön plana çıkması ve piyasada yakından izlenmeye devam edilmesi bekleniyor.",
+"link": "http://www.hurriyet.com.tr/dolar-ne-kadar-oldu-40104451",
+"resim": "http://i.hurimg.com/i/hurriyet/75/620x350/5739670318c7735c78af902c.jpg"
+}
